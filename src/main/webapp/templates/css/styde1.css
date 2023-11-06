@@ -1,0 +1,41 @@
+.product-item {
+    backface-visibility: hidden;
+    margin-bottom: 30px;
+}
+.product-item .product-content h5 {
+    border: 0;
+    margin-top: 20px;
+    background-color: white;
+    font-size: 16px;
+    text-transform: uppercase; 
+}
+span.price {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2a80b9;
+    display: block;
+}
+mass{
+    margin-left: 5px;
+}
+monn{
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.add-to-cart {
+    background-color: rgb(249, 184, 70);
+    margin-top: 15px;
+    border-radius: 3px;
+    padding: 7px 10px;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+.buy-now {
+    background-color: rgb(94, 102, 164);
+}
